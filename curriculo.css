@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(214, 214, 214);
+    margin-left: 20px;
+    font-size: larger;
+}
+header h2 {margin-bottom: -10px;
+margin-top: 10px;}
+.cmc{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom:-20px;
+    margin-bottom: -90px;
+    margin-top: -95px ;
+}
+h2 {
+    text-decoration-line: underline;
+    margin-left: 20px;
+    margin-top: 15px;
+    margin-bottom: -5px;
+}
+h1 {
+    margin-left: 20px;
+}
+main h4{
+margin-bottom: -10px;
+margin-top: ;
+}
+#final {
+    border-bottom: 2px solid;
+    color: black;
+}
+
+.curso{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom:-20px;
+}
+
+.curso img{
+    margin-right: 5px;
+    border-radius:50% ;
+}
